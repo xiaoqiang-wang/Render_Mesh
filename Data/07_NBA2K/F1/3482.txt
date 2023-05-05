@@ -1,0 +1,4 @@
+ IDX	 gl_Position.x	 gl_Position.y	 gl_Position.z	 gl_Position.w
+ 100	  0.84299	  0.66856	  0.01988	  1.00
+ 101	  0.86252	  0.6684	  0.01988	  1.00
+ 102	  0.84299	  0.70969	  0.01988	  1.00
